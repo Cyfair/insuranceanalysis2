@@ -11,8 +11,10 @@ Monterrey. De acuerdo a los  datos obtenidos es posible combinar los
 riesgos del portafolio de la aseguradora. Este reporte se  crea como un
 soporte para el Comité de Riesgo para conocer la estructura de los
 riesgos así  como la influencia de las reclamaciones con las variables
-que se conocen.  What is special about using `README.Rmd` instead of
-just `README.md`? You can include R chunks like so:
+que se conocen. 
+
+What is special about using `README.Rmd` instead of just `README.md`?
+You can include R chunks like so:
 
 ``` r
 summary(cars)
